@@ -1,0 +1,80 @@
+/* NAVBAR CUSTOM */
+
+.nav-custom{
+    height: 10%;
+    border-bottom: solid 1px white;
+}
+
+.logo-custom{
+    height: 50px;
+    width: 35px;
+}
+
+.font-custom{
+font-family: 'Orbitron', sans-serif;
+color: white;
+}
+
+
+/* Fine NAVBAR CUSTOM */
+
+/* Inizio Header */
+
+.bg-image-moon{
+    background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0.5)), url(../Selfwork-Black/Black/media/moon.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.custom-distance{
+    padding-top: 23%;
+}
+
+.custom-distance-h1{
+    padding-left:5%;
+}
+
+.custom-distance-p{
+    padding-left:17%;
+}
+
+.freccia{
+    padding-top: 18%;
+}
+
+/* Fine Header */
+
+/* Inizio section can card */
+
+.custom-border{
+    border-bottom: solid 3px rgb(42, 156, 244);
+}
+
+
+.text-color-custom{
+    color:#2B9DF4;
+}
+
+.p-moon-p{
+    padding-top: 12%;
+}
+
+.c-distance{
+    padding-bottom:15%
+}
+
+/* Fine section can card */
+
+/* Inizio section con card sparse */
+
+.logo-custom{
+    width: 50px;
+    height: 50px;
+    padding-bottom: 5px;
+}
+
+.p-top-2{
+    padding-top:8%;
+}
